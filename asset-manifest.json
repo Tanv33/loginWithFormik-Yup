@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loginWithFormik-Yup/static/css/main.4c968894.chunk.css",
+    "main.js": "/loginWithFormik-Yup/static/js/main.383ff1d3.chunk.js",
+    "main.js.map": "/loginWithFormik-Yup/static/js/main.383ff1d3.chunk.js.map",
+    "runtime-main.js": "/loginWithFormik-Yup/static/js/runtime-main.831f4bde.js",
+    "runtime-main.js.map": "/loginWithFormik-Yup/static/js/runtime-main.831f4bde.js.map",
+    "static/js/2.e2719641.chunk.js": "/loginWithFormik-Yup/static/js/2.e2719641.chunk.js",
+    "static/js/2.e2719641.chunk.js.map": "/loginWithFormik-Yup/static/js/2.e2719641.chunk.js.map",
+    "static/js/3.46194e26.chunk.js": "/loginWithFormik-Yup/static/js/3.46194e26.chunk.js",
+    "static/js/3.46194e26.chunk.js.map": "/loginWithFormik-Yup/static/js/3.46194e26.chunk.js.map",
+    "index.html": "/loginWithFormik-Yup/index.html",
+    "static/css/main.4c968894.chunk.css.map": "/loginWithFormik-Yup/static/css/main.4c968894.chunk.css.map",
+    "static/js/2.e2719641.chunk.js.LICENSE.txt": "/loginWithFormik-Yup/static/js/2.e2719641.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.831f4bde.js",
+    "static/js/2.e2719641.chunk.js",
+    "static/css/main.4c968894.chunk.css",
+    "static/js/main.383ff1d3.chunk.js"
+  ]
+}
